@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rodrigodh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on V4 Company as Frontend Engineer.
 - 🌱 I’m currently learning Node, ReactJS, React Native, Python and Electron.
