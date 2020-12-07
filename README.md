@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![Rodrigo](https://i.imgur.com/thEWiNy.jpg)
 
@@ -11,6 +11,8 @@
   </tr>   
 </table>
 </center>
+
+### Hi there 👋
 
 - 🔭 I’m currently working on V4 Company as Frontend Engineer.
 - 🌱 I’m currently learning Node, ReactJS, React Native, Python and Electron.
