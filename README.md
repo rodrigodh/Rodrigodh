@@ -1,6 +1,4 @@
-
-![Rodrigo](https://i.imgur.com/Z0nFY64.jpg)
-
+![Rodrigo](https://user-images.githubusercontent.com/21986811/119857316-d54a3600-bee9-11eb-9ab6-877ac11d953f.png)
 
 <center>
 <table>
