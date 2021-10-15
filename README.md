@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on V4 Company as Frontend Engineer.
-- 🌱 I’m currently learning Node, ReactJS, React Native, Python and Electron.
+- 🔭 I’m currently working at V4 Company as Frontend Engineer.
+- 🌱 I’m currently learning Swift, Node, ReactJS, React Native.
 - 💬 Ask me about how i can help you to grow as company or user.
 - 📫 How to reach me: rodrigo.schieck@v4company.com
